@@ -1,4 +1,5 @@
 sets/**/data/
+miniprojects/**/*.csv
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
